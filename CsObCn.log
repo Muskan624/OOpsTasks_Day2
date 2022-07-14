@@ -1,0 +1,20 @@
+2022-07-14 14:00:02,973,root,INFO,Examples for class,object and constructor
+2022-07-14 14:00:02,973,root,INFO,Constructor started
+2022-07-14 14:00:02,973,root,INFO,student name - Muskan
+2022-07-14 14:00:02,973,root,INFO,course name  - data structure
+2022-07-14 14:00:02,973,root,INFO,course fee - 15000
+2022-07-14 14:00:02,973,root,INFO,Examples of abtraction
+2022-07-14 14:00:02,973,root,INFO, fisrt example for abstraction
+2022-07-14 14:00:02,973,root,INFO, second example for abstraction
+2022-07-14 14:00:02,973,root,INFO,This is the example of single level inheritance
+2022-07-14 14:00:02,973,root,INFO,Type of job is : Manager
+2022-07-14 14:00:02,973,root,INFO,Package received is : 20lpa
+2022-07-14 14:00:02,973,root,INFO,name of course provided is - Datascience bootcamp
+2022-07-14 14:00:02,973,root,INFO,All the students of Ineuron belong to different courses.
+2022-07-14 14:00:02,973,root,INFO,Some belong to FSDS course and some to FSDA.
+2022-07-14 14:00:02,973,root,INFO,All the students of Ineuron belong to different courses.
+2022-07-14 14:00:02,973,root,INFO,These students belong to FSDS course and not FSDA.
+2022-07-14 14:00:02,973,root,INFO,All the students of Ineuron belong to different courses.
+2022-07-14 14:00:02,973,root,INFO,These students belong to FSDA course and not FSDS.
+2022-07-14 14:00:02,973,root,INFO,The course attended by the student at the beginning is FSDS
+2022-07-14 14:00:02,973,root,INFO,The course attended by the student after change is FSDA
